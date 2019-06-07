@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="marker_serena_old_bw" size="2.500000 2.500000" />
+    <ImageTarget name="marker_serena_old" size="2.500000 2.500000" />
+    <ImageTarget name="marker_einstein_old" size="2.500000 2.500000" />
+    <ImageTarget name="marker_cody_old" size="2.500000 2.500000" />
+    <ImageTarget name="marker_cody" size="10.000000 10.000000" />
+    <ImageTarget name="marker_serena" size="10.000000 10.000000" />
+    <ImageTarget name="marker_einstein" size="10.000000 10.000000" />
+    <ImageTarget name="marker_einstein_bw" size="2.500000 2.500000" />
+    <ImageTarget name="marker_cody_bw" size="2.500000 2.500000" />
+    <ImageTarget name="marker_serena_bw" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
